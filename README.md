@@ -10,9 +10,9 @@ With the help of FSM, the factory and its components can be modelled
 
 Therefore, FSM offers two-dimensional graphics with unified symbols which can be used with pencil and paper without the need of further tools. Thus, interdisciplinary planning teams are enabled to develop visualized Solutions.
 
-The underlying method FSMER aims at the holistic, methodical and model-based description, explanation and design of factory systems focusing on the objectives energy and resource efficiency.
+The underlying method FSM_ER_ aims at the holistic, methodical and model-based description, explanation and design of factory systems focusing on the objectives energy and resource efficiency.
 
--
+--
 
 Mit Hilfe der Fabriksystemmodellierung (FSM) können Systeme, Prozesse und weitere Bestandteile der Fabrik bzw. einer Produktion grafisch abgebildet und modellhaft beschrieben werden. Dies ist notwendig, weil die Fabrik ein komplexes Gebilde mit einer Vielzahl an vernetzten Elementen darstellt und weil die Fabrik von verschiedensten Akteuren und Abteilungen geplant und betrieben wird. 
 
@@ -23,5 +23,5 @@ FSM erlaubt es, Fabriksysteme und deren Bestandteile
 
 Hierfür bietet FSM zweidimensionale Darstellungen mit einheitlichen Symbolen, die ohne weitere Hilfsmittel direkt vor Ort mit Stift und Papier erstellt werden können, so dass im interdisziplinären Team gemeinsam an den visualisierten Lösungen gearbeitet werden kann.
 
-Die zugrundeliegende Methodik FSMER fokussiert die ganzheitliche, methodische und modellgestützte Beschreibung, Erklärung und Gestaltung von Fabriksystemen hinsichtlich der Zielgrößen Energie- und Ressourceneffizienz.
+Die zugrundeliegende Methodik FSM_ER_ fokussiert die ganzheitliche, methodische und modellgestützte Beschreibung, Erklärung und Gestaltung von Fabriksystemen hinsichtlich der Zielgrößen Energie- und Ressourceneffizienz.
 
