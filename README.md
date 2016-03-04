@@ -19,8 +19,8 @@ Mit Hilfe der Fabriksystemmodellierung (FSM) können Systeme, Prozesse und weite
 FSM erlaubt es, Fabriksysteme und deren Bestandteile
 - in vereinfachter, disziplinübergreifender, transparenter Form,
 - in frühen Planungsphasen und
-- ohne Notwendigkeit von quantitativen Daten zu modellieren. 
-- 
+- ohne Notwendigkeit von quantitativen Daten zu modellieren.
+
 Hierfür bietet FSM zweidimensionale Darstellungen mit einheitlichen Symbolen, die ohne weitere Hilfsmittel direkt vor Ort mit Stift und Papier erstellt werden können, so dass im interdisziplinären Team gemeinsam an den visualisierten Lösungen gearbeitet werden kann.
 
 Die zugrundeliegende Methodik FSMER fokussiert die ganzheitliche, methodische und modellgestützte Beschreibung, Erklärung und Gestaltung von Fabriksystemen hinsichtlich der Zielgrößen Energie- und Ressourceneffizienz.
