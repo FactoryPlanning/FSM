@@ -8,9 +8,9 @@ With the help of FSM, the factory and its components can be modelled
 - in early planning phases and
 - without the need of quantitative data.
 
-Therefore, FSM offers two-dimensional graphics with unified symbols which can be used with pencil and paper without the need of further tools. Thus, interdisciplinary planning teams are enabled to develop visualized Solutions.
+Therefore, FSM offers two-dimensional graphics with unified symbols which can be used with pencil and paper without the need of further tools. Thus, interdisciplinary planning teams are enabled to develop visualized solutions.
 
-The underlying method FSM*ER* aims at the holistic, methodical and model-based description, explanation and design of factory systems focusing on the objectives energy efficiency and resource efficiency. Building on that, FSM*I* is used to model the information systems as further view on the factory (under development).
+The underlying method FSM*ER* aims at the holistic, methodical and model-based description, explanation and design of factory systems focusing on the objectives energy efficiency and resource efficiency. Building on that, FSM*I* is used to model the information systems as further perspective on the factory (under development).
 
 For more information see [Wiki](https://github.com/FactoryPlanning/FSM/wiki).
 
