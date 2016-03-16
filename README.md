@@ -12,6 +12,8 @@ Therefore, FSM offers two-dimensional graphics with unified symbols which can be
 
 The underlying method FSM*ER* aims at the holistic, methodical and model-based description, explanation and design of factory systems focusing on the objectives energy and resource efficiency.Building on that, FSM*I* is used to model the information systems as further view on the factory (under development).
 
+For more information see [Wiki](https://github.com/FactoryPlanning/FSM/wiki).
+
 --
 
 **Fabriksystemmodellierung**
@@ -27,3 +29,4 @@ Hierfür bietet FSM zweidimensionale Darstellungen mit einheitlichen Symbolen, d
 
 Die zugrundeliegende Methodik FSM*ER* fokussiert die ganzheitliche, methodische und modellgestützte Beschreibung, Erklärung und Gestaltung von Fabriksystemen hinsichtlich der Zielgrößen Energie- und Ressourceneffizienz. Darauf aufbauend wird FSM*I*  genutzt, mit der die Informationssysteme als weitere Sichtweise für das Fabriksystem abgebildet werden (noch in der Entwicklung).
 
+Für weitere Informationen siehe [Wiki](https://github.com/FactoryPlanning/FSM/wiki).
