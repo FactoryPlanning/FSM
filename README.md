@@ -1,5 +1,5 @@
 # FSM
-''Factory System Modeling''
+**Factory System Modeling**
 
 Systems, processes and other components of a factory or production can be described and illustrated by the Factory System Modeling (FSM). This is necessary because the factory is a complex system with a variety of different and linked elements and it is planned and used by various persons and departments.
 
@@ -14,7 +14,8 @@ The underlying method FSM*ER* aims at the holistic, methodical and model-based d
 
 --
 
-''Fabriksystemmodellierung''
+**Fabriksystemmodellierung**
+
 Mit Hilfe der Fabriksystemmodellierung (FSM) können Systeme, Prozesse und weitere Bestandteile der Fabrik bzw. einer Produktion grafisch abgebildet und modellhaft beschrieben werden. Dies ist notwendig, weil die Fabrik ein komplexes Gebilde mit einer Vielzahl an vernetzten Elementen darstellt und weil die Fabrik von verschiedensten Akteuren und Abteilungen geplant und betrieben wird. 
 
 FSM erlaubt es, Fabriksysteme und deren Bestandteile
